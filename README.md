@@ -1,71 +1,54 @@
-<div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-</div>
+![](https://komarev.com/ghpvc/?username=TU-USUARIO)
 
-<h3 align="center">
-  Hi, I'm Joaquin Camacho 👋
-</h3>
+### 👋 Hola! Soy Joaquin Camacho
+
+Soy estudiante de **Desarrollo Frontend** y actualmente me estoy formando para convertirme en desarrollador web profesional.
+
+---
+
+### 🚀 Sobre mí
+
+- 🎓 Actualmente estoy estudiando **Frontend Development**
+- 💻 Me gusta crear interfaces web y aprender nuevas tecnologías
+- ⚛️ Estoy profundizando en :
+   - Desarrollo web
+   - Mejorando habilidades de lenguajes
+- 🎯 Mi objetivo es conseguir mi primera experiencia laboral como **Desarrollador Frontend**
+
+---
+
+## 🛠️ Mis habilidades
+
+### 💻 Lenguajes
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+---
+
+### ⚛️ Frameworks & Librerías
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,)](https://skillicons.dev)
+
+---
+
+### 🧰 Herramientas
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode)](https://skillicons.dev)
+
+
+---
+
+
+
+## 📫 Contacto
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer%20Trainee;HTML%20CSS%20JavaScript%20React;Always%20learning%20new%20things;Welcome%20to%20my%20GitHub!&center=true&width=440&height=45">
-  </a>
+<a target="_blank" href="www.linkedin.com/in/joaquincamachoo"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="joaqui3003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>  
+   
 </p>
 
 ---
 
-## 👨‍💻 About Me
+💻 *“Siempre aprendiendo y mejorando línea por línea de código.”*
 
-- 🎓 I'm currently studying **Frontend Development**
-- 💻 I love building web interfaces and learning new technologies
-- 🚀 Currently improving my skills in **React & JavaScript**
-- 🎯 Goal: Become a **professional Frontend Developer**
 
----
-
-## 🛠 Tech Stack
-
-### 💻 Languages & Technologies
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### ⚛️ Frameworks & Libraries
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-⭐ From [Joaquin Camacho](https://github.com/TU-USUARIO)
 
